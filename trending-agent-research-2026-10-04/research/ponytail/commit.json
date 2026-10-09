@@ -1,0 +1,101 @@
+{
+  "sha": "c982cd411abb53323c4baa1baa3c2f020b8d0b08",
+  "node_id": "C_kwDOS4HNr9oAKGM5ODJjZDQxMWFiYjUzMzIzYzRiYWExYmFhM2MyZjAyMGI4ZDBiMDg",
+  "commit": {
+    "author": {
+      "name": "Aly Dhedhi",
+      "email": "91044156+dhedhialy@users.noreply.github.com",
+      "date": "2026-10-03T05:12:55Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-10-03T05:12:55Z"
+    },
+    "message": "docs: add Command Code (installs skills with cmd skills add, reads AGENTS.md) (#547)\n\nCloses #244",
+    "tree": {
+      "sha": "602912d96e9cf113408a9725ed03f42a07e7d25b",
+      "url": "https://api.github.com/repos/DietrichGebert/ponytail/git/trees/602912d96e9cf113408a9725ed03f42a07e7d25b"
+    },
+    "url": "https://api.github.com/repos/DietrichGebert/ponytail/git/commits/c982cd411abb53323c4baa1baa3c2f020b8d0b08",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwI7XCRC1aQ7uu5UhlAAAxIUQABNX3JphjGZoLUwrH1FvUtji\nzEnEvBfX9Yim59pHHaqpvSCGw1s4J+jvOn/XPTQho+vcEw79v2oYzzWE7qt13YxL\nN/T2H8mU2zIY1Cy0H/aRXLS8uCvFY+m+xsI6r463moQLhgV0LACMNVedsYBybeKG\nFTJFQAbRYbX2BFqdfINcSC2rc9ZggKRqzgOo7YgA5ZuJ+4ATKeel4udcnV9vRayQ\njX67wvGmXG9jzwIcDV5UaU5Q8/A6k0VhLnSGYduAKgwv7pYj2CUXQPsF6slv0CEe\nhlN4nL146i1LeW/eU18xqQ/bjP1BPwYsdXLPJ9ILjVH+kJLZGidmBu2AESVEMQez\nQafD9Q0cPJiHjNlX/wIZ+6m/hdnw+IldX0X+ArN+4PROstbDNKi0klUtfuwk+Fg8\nGc+CnqaO/gRhkVpEv+BWzoiEPhzRYAS1aECzluGGPwRmaHip9x3ru6WbsSnLOSY5\nYD42+erccgzeqeiCYzbFY7caW+9W0KeeaLIQfy1V0tC1lJmkqOTvNuq7Q2pe4r5g\nksaTBMzZyZEGiL5i6sMGIKYHALsmlZjf5UI7alMZdQQC6O7RfOTGr4vzntsxRYnC\ni5FGa6pXbx4mWfWXuiL3mKgef82k09rzuvoeSKMf7ryByYIOd980Xe9V51Szjflq\nJa2dV1mBMlAfsO3044Sb\n=L7E1\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 602912d96e9cf113408a9725ed03f42a07e7d25b\nparent 831bf4168fadb7d353d7fcdad8c6f7b357e277e4\nauthor Aly Dhedhi <91044156+dhedhialy@users.noreply.github.com> 1791004375 -0400\ncommitter GitHub <noreply@github.com> 1791004375 +0200\n\ndocs: add Command Code (installs skills with cmd skills add, reads AGENTS.md) (#547)\n\nCloses #244",
+      "verified_at": "2026-10-03T05:12:56Z"
+    }
+  },
+  "url": "https://api.github.com/repos/DietrichGebert/ponytail/commits/c982cd411abb53323c4baa1baa3c2f020b8d0b08",
+  "html_url": "https://github.com/DietrichGebert/ponytail/commit/c982cd411abb53323c4baa1baa3c2f020b8d0b08",
+  "comments_url": "https://api.github.com/repos/DietrichGebert/ponytail/commits/c982cd411abb53323c4baa1baa3c2f020b8d0b08/comments",
+  "author": {
+    "login": "dhedhialy",
+    "id": 91044156,
+    "node_id": "MDQ6VXNlcjkxMDQ0MTU2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91044156?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dhedhialy",
+    "html_url": "https://github.com/dhedhialy",
+    "followers_url": "https://api.github.com/users/dhedhialy/followers",
+    "following_url": "https://api.github.com/users/dhedhialy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dhedhialy/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dhedhialy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dhedhialy/subscriptions",
+    "organizations_url": "https://api.github.com/users/dhedhialy/orgs",
+    "repos_url": "https://api.github.com/users/dhedhialy/repos",
+    "events_url": "https://api.github.com/users/dhedhialy/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dhedhialy/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "831bf4168fadb7d353d7fcdad8c6f7b357e277e4",
+      "url": "https://api.github.com/repos/DietrichGebert/ponytail/commits/831bf4168fadb7d353d7fcdad8c6f7b357e277e4",
+      "html_url": "https://github.com/DietrichGebert/ponytail/commit/831bf4168fadb7d353d7fcdad8c6f7b357e277e4"
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "additions": 1,
+    "deletions": 0
+  },
+  "files": [
+    {
+      "sha": "6841184fda0e446cff2a1bccffe96887c41d0144",
+      "filename": "docs/agent-portability.md",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/DietrichGebert/ponytail/blob/c982cd411abb53323c4baa1baa3c2f020b8d0b08/docs%2Fagent-portability.md",
+      "raw_url": "https://github.com/DietrichGebert/ponytail/raw/c982cd411abb53323c4baa1baa3c2f020b8d0b08/docs%2Fagent-portability.md",
+      "contents_url": "https://api.github.com/repos/DietrichGebert/ponytail/contents/docs%2Fagent-portability.md?ref=c982cd411abb53323c4baa1baa3c2f020b8d0b08",
+      "patch": "@@ -27,6 +27,7 @@ to load in a given agent.\n | JetBrains Junie | `AGENTS.md` | Junie reads `AGENTS.md` once you point it there in Settings → Tools → Junie → Project Settings → Guidelines Path (not automatic yet); this repo ships `AGENTS.md`, and `.junie/guidelines.md` is Junie's legacy path. Instruction-tier. |\n | Amp (Sourcegraph) | `AGENTS.md` | Amp reads `AGENTS.md` from the working directory and parent directories up to `$HOME` (plus global config like `~/.config/amp/AGENTS.md`); falls back to `AGENT.md`/`CLAUDE.md`. Instruction-tier. |\n | Factory Droid | `AGENTS.md`, `skills/` | Droid reads `AGENTS.md` from the working directory up to the git root (also inside `.factory/` and `.agents/` there) and globally from `~/.factory/AGENTS.md`. It loads `SKILL.md` skills from `.factory/skills/` or `~/.factory/skills/`, so copy the folders from `skills/` there for review, audit and the other skills. Instruction-tier, no `/ponytail` levels or hooks. |\n+| Command Code | `skills/`, `AGENTS.md` | `cmd skills add https://github.com/DietrichGebert/ponytail` installs the six skills into `.commandcode/skills/` (add `--global` for `~/.commandcode/skills/`); `.agents/skills/` is auto-discovered too. Reads `AGENTS.md` as project memory every session. Instruction-tier, no `/ponytail` levels or hooks. |\n | Jules (Google) | `AGENTS.md` | Jules automatically reads `AGENTS.md` from the repository root. Instruction-tier. |\n | Kiro | `.kiro/steering/ponytail.md` | Steering rule; copy globally or into a project. |\n | Qoder | `.qoder/rules/ponytail.md`, `.qoder-plugin/plugin.json`, `hooks/qoder-hooks.json`, `skills/`, `AGENTS.md` | Qoder auto-loads `AGENTS.md` as always-on context; `.qoder/rules/ponytail.md` provides per-project rules; the plugin manifest points at `skills/` for the six ponytail skills (invoked as `/ponytail`, `/ponytail-review`, etc. via the Skill system). Full plugin-tier: `hooks/qoder-hooks.json` template registers `UserPromptSubmit` (mode activation + ruleset injection) and `PreToolUse` with `task|Task` matcher (subagent injection). Instruction-tier works from repo root with zero setup via `AGENTS.md`. |"
+    }
+  ]
+}

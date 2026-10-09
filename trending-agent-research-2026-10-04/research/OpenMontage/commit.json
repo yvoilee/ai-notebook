@@ -1,0 +1,142 @@
+{
+  "sha": "9327439db69021ab4b0e2776729bf3b58fdb5a87",
+  "node_id": "C_kwDORz_BDdoAKDkzMjc0MzlkYjY5MDIxYWI0YjBlMjc3NjcyOWJmM2I1OGZkYjVhODc",
+  "commit": {
+    "author": {
+      "name": "Calesthio",
+      "email": "celesthioailabs@gmail.com",
+      "date": "2026-10-03T16:28:55Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-10-03T16:28:55Z"
+    },
+    "message": "Merge pull request #527 from rbrogan-git/fix/wan22-t2v-temporal-latent\n\nfix(comfyui): use a temporal latent in the bundled WAN 2.2 t2v workflow",
+    "tree": {
+      "sha": "9a64aa1bc37f4931c67505ad7f1da355040ae493",
+      "url": "https://api.github.com/repos/calesthio/OpenMontage/git/trees/9a64aa1bc37f4931c67505ad7f1da355040ae493"
+    },
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/git/commits/9327439db69021ab4b0e2776729bf3b58fdb5a87",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwS1HCRC1aQ7uu5UhlAAAhM0QAFiCRJm80G1Yyvymz8blL5eJ\nXpkQGHz2mfdjB6iVEpnmEHo2b9DaHbB80umjzDUimNMuWPEOM5KsDgQDLGQQm7W4\nBGg4Ph++T94RmWoPjJjYsH7EtTmcW3FA+R+N4Zo33Qxl2svfsk+tWJ8qgRghIotE\nw1Jv7ssxuBwVMEolUysr4CZGUAiNbqHAbaI3gYursOVKyrpFT5PqCEu6A+HfN6zw\nPcSq8OZQKJ+5ryCZVg2JADjiw3A1gs4DK1bAKjHovSr0PEXG9hBmKMYKM+rl7LCf\nNx0UFDlGIT6jUGxMbI5n5UUq5FQbAy+vYtWNrFG1i5uoaLotJ34hll2eCxoXroU2\n3/UVVX/jH/hiI1hfTL8bshAtUV0l9df7DMjPPqvps2QtROE2dKimQmAw3A+3/H8b\nB262kw+x4TY1DQzafdCJXUrSkgE66+CnI2y0fSFH3bhvN+duLZjsoNEHo6+3FPH3\n6ftlMLobI3CDJfxp4XAoAEhhBLoSTgBrLM5VMPVGseMQ6V1ErtYmzx2z7C7lO5P1\ngXo2PrxBiI0RsbvBV6KtEN9NJ5RXu+lZ2K6WYrDTIX9qTQRTMlcD054ZtqxzO3iH\npTA25EaGWrAkcPhCk9AOqcb79mWuSQ62FBMyJYeab3HgO9xkXbKCnl+CMnHPrvtD\nvBthVyVUReZcVYXw4g8J\n=JKy8\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 9a64aa1bc37f4931c67505ad7f1da355040ae493\nparent 4f136503a967a7e7fc18b044b91be20b2bc93331\nparent a3768a044104fc9edad2a518e37d3119c80945ba\nauthor Calesthio <celesthioailabs@gmail.com> 1791044935 -0400\ncommitter GitHub <noreply@github.com> 1791044935 -0400\n\nMerge pull request #527 from rbrogan-git/fix/wan22-t2v-temporal-latent\n\nfix(comfyui): use a temporal latent in the bundled WAN 2.2 t2v workflow",
+      "verified_at": "2026-10-03T16:28:55Z"
+    }
+  },
+  "url": "https://api.github.com/repos/calesthio/OpenMontage/commits/9327439db69021ab4b0e2776729bf3b58fdb5a87",
+  "html_url": "https://github.com/calesthio/OpenMontage/commit/9327439db69021ab4b0e2776729bf3b58fdb5a87",
+  "comments_url": "https://api.github.com/repos/calesthio/OpenMontage/commits/9327439db69021ab4b0e2776729bf3b58fdb5a87/comments",
+  "author": {
+    "login": "calesthio",
+    "id": 213189893,
+    "node_id": "U_kgDODLUFBQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/calesthio",
+    "html_url": "https://github.com/calesthio",
+    "followers_url": "https://api.github.com/users/calesthio/followers",
+    "following_url": "https://api.github.com/users/calesthio/following{/other_user}",
+    "gists_url": "https://api.github.com/users/calesthio/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/calesthio/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/calesthio/subscriptions",
+    "organizations_url": "https://api.github.com/users/calesthio/orgs",
+    "repos_url": "https://api.github.com/users/calesthio/repos",
+    "events_url": "https://api.github.com/users/calesthio/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/calesthio/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "4f136503a967a7e7fc18b044b91be20b2bc93331",
+      "url": "https://api.github.com/repos/calesthio/OpenMontage/commits/4f136503a967a7e7fc18b044b91be20b2bc93331",
+      "html_url": "https://github.com/calesthio/OpenMontage/commit/4f136503a967a7e7fc18b044b91be20b2bc93331"
+    },
+    {
+      "sha": "a3768a044104fc9edad2a518e37d3119c80945ba",
+      "url": "https://api.github.com/repos/calesthio/OpenMontage/commits/a3768a044104fc9edad2a518e37d3119c80945ba",
+      "html_url": "https://github.com/calesthio/OpenMontage/commit/a3768a044104fc9edad2a518e37d3119c80945ba"
+    }
+  ],
+  "stats": {
+    "total": 78,
+    "additions": 75,
+    "deletions": 3
+  },
+  "files": [
+    {
+      "sha": "9330d801b5739613ebaf4b60a9b37167c7a2216f",
+      "filename": ".agents/skills/comfyui/SKILL.md",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 0,
+      "changes": 5,
+      "blob_url": "https://github.com/calesthio/OpenMontage/blob/9327439db69021ab4b0e2776729bf3b58fdb5a87/.agents%2Fskills%2Fcomfyui%2FSKILL.md",
+      "raw_url": "https://github.com/calesthio/OpenMontage/raw/9327439db69021ab4b0e2776729bf3b58fdb5a87/.agents%2Fskills%2Fcomfyui%2FSKILL.md",
+      "contents_url": "https://api.github.com/repos/calesthio/OpenMontage/contents/.agents%2Fskills%2Fcomfyui%2FSKILL.md?ref=9327439db69021ab4b0e2776729bf3b58fdb5a87",
+      "patch": "@@ -47,6 +47,11 @@ Use this skill before calling `comfyui_image`, `comfyui_video`, or `comfyui_musi\n - Fixed nodes are model loaders, VAEs, text encoders, LoRA loaders, schedulers, and graph wiring. Do not mutate those unless the workflow author intended that customization.\n - For community workflows, inspect each loader node and note every required model or custom node before running. Missing models should be handled through the tool's structured `missing_models` payload when available.\n \n+### Video workflows need a temporal latent\n+\n+- A video workflow's empty-latent node must be a **video** latent -- `EmptyHunyuanLatentVideo` for Wan 2.2 t2v, `Wan22ImageToVideoLatent` or `WanImageToVideo` for the image-conditioned variants. The frame count goes in `length`; `batch_size` is how many separate clips to generate and stays at `1`.\n+- `EmptyLatentImage` with `batch_size` set to the frame count is a trap: it asks for N unrelated images, and the resulting MP4 has the right frame count, duration and codec and passes `ffprobe` cleanly -- it just strobes. Check the latent node before running any unfamiliar video workflow.\n+\n ## Model and LoRA Setup\n \n - Use ComfyUI Manager or the workflow author's model links when available, and respect model licenses."
+    },
+    {
+      "sha": "a9247a28dbb4269df7446c5482bb10b51e2c277d",
+      "filename": "tests/contracts/test_comfyui_tools.py",
+      "status": "modified",
+      "additions": 54,
+      "deletions": 0,
+      "changes": 54,
+      "blob_url": "https://github.com/calesthio/OpenMontage/blob/9327439db69021ab4b0e2776729bf3b58fdb5a87/tests%2Fcontracts%2Ftest_comfyui_tools.py",
+      "raw_url": "https://github.com/calesthio/OpenMontage/raw/9327439db69021ab4b0e2776729bf3b58fdb5a87/tests%2Fcontracts%2Ftest_comfyui_tools.py",
+      "contents_url": "https://api.github.com/repos/calesthio/OpenMontage/contents/tests%2Fcontracts%2Ftest_comfyui_tools.py?ref=9327439db69021ab4b0e2776729bf3b58fdb5a87",
+      "patch": "@@ -176,6 +176,60 @@ def test_t2v_workflow_has_templated_nodes():\n     assert \"16\" in w  # SaveVideo (output)\n \n \n+def test_t2v_workflow_latent_is_temporal_not_an_image_batch():\n+    \"\"\"A video model needs a video latent. This is not pedantry.\n+\n+    Node 11 was an ``EmptyLatentImage`` with ``batch_size`` set to the frame\n+    count from the workflow's first commit until it was found by inspection.\n+    That asks for N unrelated images rather than one N-frame video, and the\n+    resulting mp4 has the right frame count, the right duration, the right\n+    codec and a clean ffprobe -- it just strobes. Every structural test in this\n+    file passed the whole time, because they checked that nodes existed rather\n+    than what they were.\n+\n+    ComfyUI's own ``video_wan2_2_14B_t2v`` template uses\n+    ``EmptyHunyuanLatentVideo``; the i2v sibling in this directory has always\n+    used ``WanImageToVideo`` correctly.\n+    \"\"\"\n+    with open(WORKFLOW_DIR / \"wan22-t2v-4step.json\") as f:\n+        w = json.load(f)\n+    latent = w[\"11\"]\n+    assert latent[\"class_type\"] != \"EmptyLatentImage\", (\n+        \"node 11 is an image latent; output will be unrelated stills that \"\n+        \"strobe inside a structurally valid mp4\"\n+    )\n+    assert latent[\"class_type\"] in {\n+        \"EmptyHunyuanLatentVideo\",\n+        \"Wan22ImageToVideoLatent\",\n+        \"WanImageToVideo\",\n+    }, f\"unexpected latent node {latent['class_type']!r}\"\n+    inputs = latent[\"inputs\"]\n+    assert \"length\" in inputs, \"a temporal latent carries the frame count in `length`\"\n+    assert inputs[\"length\"] > 1, \"a single-frame latent is not a video\"\n+    assert inputs.get(\"batch_size\", 1) == 1, (\n+        \"batch_size is how many separate clips to generate, not how many \"\n+        \"frames each has -- setting it to the frame count is the original bug\"\n+    )\n+\n+\n+def test_t2v_builder_patches_frame_count_into_length_not_batch_size():\n+    \"\"\"The builder must not put the frame count back where it does not belong.\n+\n+    Fixing the workflow alone is not enough: ``_build_t2v`` patches node 11 on\n+    every call, so a builder still writing ``batch_size: num_frames`` would\n+    reintroduce the bug against a corrected workflow.\n+    \"\"\"\n+    from tools.video.comfyui_video import ComfyUIVideo\n+\n+    workflow, _ = ComfyUIVideo()._build_t2v(\n+        {\"prompt\": \"x\", \"width\": 832, \"height\": 480, \"num_frames\": 81},\n+        seed=1,\n+        output_path=Path(\"out.mp4\"),\n+    )\n+    assert workflow[\"11\"][\"inputs\"][\"length\"] == 81\n+    assert workflow[\"11\"][\"inputs\"][\"batch_size\"] == 1\n+\n+\n def test_t2v_workflow_uses_14b_compatible_vae():\n     with open(WORKFLOW_DIR / \"wan22-t2v-4step.json\") as f:\n         w = json.load(f)"
+    },
+    {
+      "sha": "a387ed879ef537ecf57a3c330d8f23fa3dfb4e08",
+      "filename": "tools/_comfyui/workflows/wan22-t2v-4step.json",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 2,
+      "changes": 5,
+      "blob_url": "https://github.com/calesthio/OpenMontage/blob/9327439db69021ab4b0e2776729bf3b58fdb5a87/tools%2F_comfyui%2Fworkflows%2Fwan22-t2v-4step.json",
+      "raw_url": "https://github.com/calesthio/OpenMontage/raw/9327439db69021ab4b0e2776729bf3b58fdb5a87/tools%2F_comfyui%2Fworkflows%2Fwan22-t2v-4step.json",
+      "contents_url": "https://api.github.com/repos/calesthio/OpenMontage/contents/tools%2F_comfyui%2Fworkflows%2Fwan22-t2v-4step.json?ref=9327439db69021ab4b0e2776729bf3b58fdb5a87",
+      "patch": "@@ -72,11 +72,12 @@\n     }\n   },\n   \"11\": {\n-    \"class_type\": \"EmptyLatentImage\",\n+    \"class_type\": \"EmptyHunyuanLatentVideo\",\n     \"inputs\": {\n       \"width\": 832,\n       \"height\": 480,\n-      \"batch_size\": 81\n+      \"length\": 81,\n+      \"batch_size\": 1\n     }\n   },\n   \"12\": {"
+    },
+    {
+      "sha": "53e94f9f700e7706a6f247de643ba51f84ac1682",
+      "filename": "tools/video/comfyui_video.py",
+      "status": "modified",
+      "additions": 13,
+      "deletions": 1,
+      "changes": 14,
+      "blob_url": "https://github.com/calesthio/OpenMontage/blob/9327439db69021ab4b0e2776729bf3b58fdb5a87/tools%2Fvideo%2Fcomfyui_video.py",
+      "raw_url": "https://github.com/calesthio/OpenMontage/raw/9327439db69021ab4b0e2776729bf3b58fdb5a87/tools%2Fvideo%2Fcomfyui_video.py",
+      "contents_url": "https://api.github.com/repos/calesthio/OpenMontage/contents/tools%2Fvideo%2Fcomfyui_video.py?ref=9327439db69021ab4b0e2776729bf3b58fdb5a87",
+      "patch": "@@ -612,7 +612,19 @@ def _build_t2v(\n             workflow,\n             {\n                 \"2\": {\"text\": inputs[\"prompt\"]},\n-                \"11\": {\"width\": width, \"height\": height, \"batch_size\": num_frames},\n+                # `length` is the frame count, `batch_size` is how many separate\n+                # clips to make. Node 11 used to be an EmptyLatentImage with\n+                # batch_size=num_frames, which asks for 81 unrelated images\n+                # rather than one 81-frame video: the mp4 has the right frame\n+                # count and duration and passes ffprobe, but strobes. WAN 2.2\n+                # needs a temporal video latent, as ComfyUI's own\n+                # video_wan2_2_14B_t2v template uses.\n+                \"11\": {\n+                    \"width\": width,\n+                    \"height\": height,\n+                    \"length\": num_frames,\n+                    \"batch_size\": 1,\n+                },\n                 \"12\": {\"noise_seed\": seed},\n                 \"16\": {\"filename_prefix\": output_path.stem},\n             },"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+
+# Local agent and credential state
+.aws/
+.codex/
+.agents/
+.superpowers/
+
+# Keep the existing notebook repository independent
+ai-notebook/
+
+# Temporary and intermediate artifacts
+tmp/
+doc-fetch-resources/
+draft_ac761655_folder/
+hindsight_doc_backup_v1.json
+trending-agent-research-2026-10-04/research/drafts/
+
+# Downloaded third-party source snapshots
+trending-agent-research-2026-10-04/research/*/source/
+trending-agent-research-2026-10-04/research/*/source.tar.gz
